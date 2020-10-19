@@ -1,3 +1,5 @@
+Una aplicación con React utilizando Hooks y servicios Rest para conectar a una API pública de Giff. Es un buscador de giff.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
